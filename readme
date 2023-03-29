@@ -1,0 +1,13 @@
+
+Building micro service using Spring boot 2.
+
+Tech stack:
+
+Spring Rest services
+H2 in memory DB
+Java 8
+Unit testing: Junit5-Mockito
+
+API testing: Postman
+
+H2 url: http://localhost:8080/h2-console
